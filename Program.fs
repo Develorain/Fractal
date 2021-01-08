@@ -1,9 +1,6 @@
 ﻿namespace Fractal
 
-// dotnet run
-
 module Program =
-
     open System
     open Microsoft.Xna.Framework
     
